@@ -43,5 +43,30 @@ Firewalls remain essential, but they must be integrated with modern detection, i
 
 ---
 
+# Reflections – Firewall Effectiveness Research
+
+This project offered an in-depth opportunity to explore how firewalls continue to evolve in response to modern security challenges. Through the research process, I was able to:
+
+---
+
+ 🔍 Key Learning Outcomes
+
+- Deepen my understanding of the **core types of firewalls**, including packet filtering, stateful inspection, proxy-based, and next-generation firewalls (NGFWs)
+- Critically evaluate **real-world data breaches** to understand how firewall weaknesses or misconfigurations contributed to major incidents (e.g., Colonial Pipeline, Target)
+- Explore the shift from **perimeter-based defence to Zero Trust models**
+- Understand the integration of firewalls with **SIEM platforms**, **IDS/IPS**, and cloud-native solutions (e.g., Kubernetes, Calico)
+- Recognise **limitations** around encrypted traffic inspection, cloud workload visibility, and user behaviour tracking
+
+---
+
+💬 Final Thoughts
+
+While firewalls remain an essential line of defence, they must be part of a broader security strategy that includes **identity, monitoring, and anomaly detection**. This paper helped me understand the practical limitations of firewall deployments and the need for **adaptive, integrated controls** in both on-prem and cloud environments.
+
+---
+
+📘 Completed as part of: *Business Systems Security – MSc Cybersecurity, University of Bradford*
+
+
 📧 Contact: arsalanmahmood893@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/mohammad-mahmood-ba1a321ba)
